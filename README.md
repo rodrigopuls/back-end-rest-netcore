@@ -23,3 +23,4 @@
 - Logging (Kisslogger)
 - SQL
 - Entity
+- entre outros
