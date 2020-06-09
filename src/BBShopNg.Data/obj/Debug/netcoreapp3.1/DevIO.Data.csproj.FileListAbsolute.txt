@@ -1,0 +1,11 @@
+G:\Angular\BBShopNg\back-end\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.deps.json
+G:\Angular\BBShopNg\back-end\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.dll
+G:\Angular\BBShopNg\back-end\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.pdb
+G:\Angular\BBShopNg\back-end\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+G:\Angular\BBShopNg\back-end\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+G:\Angular\BBShopNg\back-end\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csprojAssemblyReference.cache
+G:\Angular\BBShopNg\back-end\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfoInputs.cache
+G:\Angular\BBShopNg\back-end\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfo.cs
+G:\Angular\BBShopNg\back-end\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CopyComplete
+G:\Angular\BBShopNg\back-end\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.dll
+G:\Angular\BBShopNg\back-end\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.pdb

@@ -1,0 +1,8 @@
+G:\Angular\BBShopNg\back-end\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.deps.json
+G:\Angular\BBShopNg\back-end\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+G:\Angular\BBShopNg\back-end\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+G:\Angular\BBShopNg\back-end\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.csprojAssemblyReference.cache
+G:\Angular\BBShopNg\back-end\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.AssemblyInfoInputs.cache
+G:\Angular\BBShopNg\back-end\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.AssemblyInfo.cs
+G:\Angular\BBShopNg\back-end\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.dll
+G:\Angular\BBShopNg\back-end\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.pdb
