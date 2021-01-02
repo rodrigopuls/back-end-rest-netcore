@@ -1,5 +1,5 @@
 # back-end-rest-netcore
-.Net Core 3.0 REST API's. Acesse: https://ng-backend.bbshop.com.br/swagger/index.html
+.Net Core 3.0 REST API's. 
 
 
 - Controllers
