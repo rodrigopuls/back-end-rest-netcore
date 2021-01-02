@@ -3,24 +3,24 @@
 
 
 - Controllers
-- Rotas
+- Routes
 - Actions Results e Formatadores
-- Response Personalizado
-- Analisadores e Convenções
+- Custom Response
+- Analyzers and conventions
 - CRUD
 - DTOs (ViewModels)
 - Startup
-- Validação
+- Validation
 - Upload
 - IFormFile
-- Autenticação com Identity
+- Identity Auth
 - JWT (Json Web Token)
 - Claims
 - HTTPS
 - CORS: Cross-Origin Resource Sharing
-- Versionamento
+- Versioning
 - Swagger
 - Logging (Kisslogger)
 - SQL
 - Entity
-- entre outros
+- and much more
