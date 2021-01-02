@@ -24,3 +24,7 @@
 - SQL
 - Entity
 - and much more
+
+
+## API Consuming
+You can see the API consuming on my advanced angular site: https://github.com/rodrigopuls/advanced-angular-site.
